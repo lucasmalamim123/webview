@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082953806086",
+    "project_id": "projeto-fira-base",
+    "storage_bucket": "projeto-fira-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082953806086:android:2c7e137446654d7259ee87",
+        "android_client_info": {
+          "package_name": "com.example.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082953806086-f0fq20lc22n4n5bjb0adib4fe2iahiu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgacV0HvtFZsLbTpycgsC68tmxIXXfYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082953806086-f0fq20lc22n4n5bjb0adib4fe2iahiu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
